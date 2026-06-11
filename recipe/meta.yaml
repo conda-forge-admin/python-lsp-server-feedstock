@@ -1,6 +1,6 @@
 {% set name = "python-lsp-server" %}
 {% set version = "1.14.0" %}
-{% set python_min = "3.9" %}
+{% set python_min = "3.10" %}
 {% set build_number = 0 %}
 
 package:
